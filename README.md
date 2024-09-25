@@ -2,7 +2,7 @@
 
 - Script: Redshank Stylish UI Lite
 - Version: 6.0.2.0
-- Creator: BLACKFIRE69
+- Creator: [BLACKFIRE69](https://fileforums.com/member.php?u=246616)
 - BaseOn: ISFMXFW - Jiva newstone
 
 
