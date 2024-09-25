@@ -42,4 +42,6 @@
 - Installation time taken.
 - Restart PC & Play game buttons.
 
-## Used Inno Setup 6 To Compile.
+### Used Inno Setup 6 To Compile.
+
+You can download game files from [here](https://t.me/AbhiRepacks/37).
