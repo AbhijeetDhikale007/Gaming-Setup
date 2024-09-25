@@ -15,29 +15,29 @@
 
 ## Each tabs details:
 
-### Home:
+### 1. Home:
 - Game infomation.
 - System requirements.
 - Size required.
 
-### Directory:
+### 2. Directory:
 - Your storage information.
 - Game size required.
 - Path selection.
 - Add shortcut.
 
-### Components:
+### 3. Components:
 - Game components selection.
 - Language selection.
 - Extra mods/packs selection (DLCs, Texture pack, etc).
 
-### Installation:
+### 4. Installation:
 - Installation progress.
 - Ram & cpu consumption.
 - Remaining time and elasped time.
 - Shutdown after installation button.
 
-### Finalization:
+### 5. Finalization:
 - Installation successful message.
 - Installation time taken.
 - Restart PC & Play game buttons.
