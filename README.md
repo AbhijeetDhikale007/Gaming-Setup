@@ -41,3 +41,5 @@
 - Installation successful message.
 - Installation time taken.
 - Restart PC & Play game buttons.
+
+## Used Inno Setup 6 To Compile.
