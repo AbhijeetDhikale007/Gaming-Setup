@@ -13,7 +13,7 @@
   4. Installation
   5. Finalization
 
-## Tabs details:
+## Each tabs details:
 
 ### Home:
 - Game infomation.
